@@ -14,7 +14,7 @@
 - 🎮 I love **game development** and turning ideas into playable things
 - 🤖 Fascinated by **AI infrastructure** — how models get served, scaled, and deployed
 - 🔨 Currently working on: turning my C# text-based game into a full GUI with **Avalonia**
-- 📫 Reach me: **YOUR_EMAIL** · open to freelance projects
+- 📫 Reach me: **gus.beauvalot@gmail.com** · open to freelance projects
 
 ---
 
@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gooseiscooi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooseiscooi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=gooseiscooi&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
