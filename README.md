@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hey, I'm Gus 👋</h1>
 <h3 align="center">Freelance developer · High school student · Game dev & AI infrastructure nerd</h3>
 
 <p align="center">
