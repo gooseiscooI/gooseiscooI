@@ -14,7 +14,7 @@
 - 🎮 I love **game development** and turning ideas into playable things
 - 🤖 Fascinated by **AI infrastructure** — how models get served, scaled, and deployed
 - 🔨 Currently working on: game I'm gonna release on steam in **C#**, using **Avalonia**
-- 📫 Reach me: **gus.beauvalot@gmail.com** · open to freelance projects
+- 📫 Reach me: **gusfreelance9208@gmail.com** · open to freelance projects
 
 ---
 
